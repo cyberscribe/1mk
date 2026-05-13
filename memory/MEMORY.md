@@ -1,0 +1,2 @@
+- [1MK manifesto project goal](project_1mk_manifesto.md) — goal, vocabulary, and conceptual framework for the One-Man Kanban manifesto
+- [1MK raw notes — current state](project_1mk_raw_notes_state.md) — snapshot of what's drafted vs. placeholder in raw-notes.md (2026-05-13)
