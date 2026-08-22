@@ -1,3 +1,4 @@
 - [1MK manifesto project goal](project_1mk_manifesto.md) — goal, vocabulary, and conceptual framework for the One-Man Kanban manifesto
 - [1MK raw notes — current state](project_1mk_raw_notes_state.md) — snapshot of what's drafted vs. placeholder in raw-notes.md (2026-05-13)
 - [Google's 12 AI-engineering goals (LinearB)](reference_google_ai_engineering_12_goals.md) — external framework to cross-reference 1MK concepts against; resonance + contrast notes included
+- project_1mk_manifesto.md — ALSO: 1MK's relationship to the posture venture (sibling, heretical lighter break from GTD; posture layer is methodology-agnostic) — added 2026-08-17

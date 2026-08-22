@@ -21,3 +21,16 @@ Project: writing a manifesto titled **One-Man Kanban: how to get the right thing
 - Respect the AI/no-AI split: **working memory and mind dumps are NOT shared with AI**; boards, columns, outcome/durable/collaboration files, email + messaging inputs, own externalisations, AI summaries and deliverables ARE shared.
 - Loop ontology to preserve: **Open loops** (Zeigarnik/Allen) + **Agentic loops** (robotics input→reason→act→evaluate) + **Outcome loops** (human orchestration of many deliverable loops). The system's purpose is to let humans *pause without exiting* an outcome loop, freeing attention.
 - Register: **manifesto**, not how-to guide. Robert is making an argument, not just documenting a system.
+
+---
+
+## Relationship to the posture/assessment venture (Robert, 2026-08-17)
+
+1MK is a **sibling** to the AI Co-Working posture methodology, not its book and not a precursor.
+The venture's north star is "the GTD of the AI-human relationship" (peakepro-diagnostics
+`go-to-market/mission.md`, latent-mission section); 1MK is the deliberate, **heretical break from
+GTD "for the rest of us"** — something lighter. The posture layer (trust × sovereignty, routed
+habits) plugs into 1MK exactly as well as it plugs into GTD, which is evidence the posture work
+is methodology-agnostic: it routes emphasis within whatever practice system the person runs.
+Keep the registers distinct — 1MK is a manifesto making an argument; the venture methodology is
+a practice system with an instrument.
